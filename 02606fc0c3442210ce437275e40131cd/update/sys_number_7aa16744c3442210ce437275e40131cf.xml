@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_472060_demo_app_cash_cases">x_472060_demo_app_cash_cases</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CAS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 13:15:57</sys_created_on>
+        <sys_id>7aa16744c3442210ce437275e40131cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAS</sys_name>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_update_name>sys_number_7aa16744c3442210ce437275e40131cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 13:15:57</sys_updated_on>
+    </sys_number>
+</record_update>

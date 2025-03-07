@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6aa16744c3442210ce437275e4013192" extends="task" label="Cash Cases" max_length="40" name="x_472060_demo_app_cash_cases" text_index="true" type="collection">
+        <element label="Consent" max_length="40" name="consent" type="boolean"/>
+    </element>
+</database>

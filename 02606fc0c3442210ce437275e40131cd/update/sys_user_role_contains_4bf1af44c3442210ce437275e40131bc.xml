@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_472060_demo_app.user" name="x_472060_demo_app.user">1260afc0c3442210ce437275e4013101</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 13:17:20</sys_created_on>
+        <sys_id>4bf1af44c3442210ce437275e40131bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_472060_demo_app.user</sys_name>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_update_name>sys_user_role_contains_4bf1af44c3442210ce437275e40131bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 13:17:20</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

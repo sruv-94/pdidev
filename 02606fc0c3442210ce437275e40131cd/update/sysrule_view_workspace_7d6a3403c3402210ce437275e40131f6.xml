@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view_workspace">
+    <sysrule_view_workspace action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <default_tab_focus>Details</default_tab_focus>
+        <default_tab_order>true</default_tab_order>
+        <description/>
+        <disable_section_collapse>false</disable_section_collapse>
+        <experience_restricted>false</experience_restricted>
+        <hide_details>false</hide_details>
+        <hide_journal_input_fields>false</hide_journal_input_fields>
+        <hide_section_menu>false</hide_section_menu>
+        <name>Cash Default</name>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sysrule_view_workspace</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 08:47:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7d6a3403c3402210ce437275e40131f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Cash Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_update_name>sysrule_view_workspace_7d6a3403c3402210ce437275e40131f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 08:47:52</sys_updated_on>
+        <table>x_472060_demo_app_cash_cases</table>
+        <tabs_order>[{"label":"Details","value":"Details"}]</tabs_order>
+        <view display_value="Default view" name="NULL">Default view</view>
+        <workspace/>
+    </sysrule_view_workspace>
+</record_update>

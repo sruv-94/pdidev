@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_472060_demo_app_cash_cases">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Demo App Workspace - x_472060_demo_app_cash_cases</name>
+        <roles/>
+        <source_table>x_472060_demo_app_cash_cases</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 13:17:20</sys_created_on>
+        <sys_id>c3f1af44c3442210ce437275e40131c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo App Workspace - x_472060_demo_app_cash_cases</sys_name>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_update_name>sys_search_source_c3f1af44c3442210ce437275e40131c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 13:17:20</sys_updated_on>
+    </sys_search_source>
+</record_update>
