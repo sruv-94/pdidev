@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="consent_1" label="Consent 1" language="en" table="x_472060_demo_app_cash_cases">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>consent_1</element>
+            <help/>
+            <hint/>
+            <label>Consent 1</label>
+            <language>en</language>
+            <name>x_472060_demo_app_cash_cases</name>
+            <plural>Consent 1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-10 06:29:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Consent 1</sys_name>
+            <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+            <sys_update_name>sys_documentation_x_472060_demo_app_cash_cases_consent_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-10 06:29:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
