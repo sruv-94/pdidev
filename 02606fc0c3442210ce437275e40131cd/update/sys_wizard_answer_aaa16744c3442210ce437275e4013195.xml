@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Cash Cases</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Cash Cases</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">5256a279ad3212104f341fade16c7482</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 13:15:56</sys_created_on>
+        <sys_id>aaa16744c3442210ce437275e4013195</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cash Cases</sys_name>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_update_name>sys_wizard_answer_aaa16744c3442210ce437275e4013195</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 13:15:56</sys_updated_on>
+        <table/>
+        <target_url>x_472060_demo_app_cash_cases.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

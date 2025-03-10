@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout_item">
+    <sys_ux_form_action_layout_item action="INSERT_OR_UPDATE">
+        <action display_value="Save">adb4e748c3442210ce437275e40131d9</action>
+        <active>true</active>
+        <color>secondary</color>
+        <description/>
+        <icon/>
+        <item_type>action</item_type>
+        <label>Save</label>
+        <layout_group/>
+        <name>Save</name>
+        <order>0</order>
+        <overflow>false</overflow>
+        <sys_class_name>sys_ux_form_action_layout_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 13:29:15</sys_created_on>
+        <sys_id>adb4e748c3442210ce437275e40131dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Save</sys_name>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_item_adb4e748c3442210ce437275e40131dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 13:29:15</sys_updated_on>
+        <table>x_472060_demo_app_cash_cases</table>
+    </sys_ux_form_action_layout_item>
+</record_update>
