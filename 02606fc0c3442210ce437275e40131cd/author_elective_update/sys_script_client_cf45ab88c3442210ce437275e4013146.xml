@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Confirm</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   g_form.addInfoMessage('Inside Script');
+   confirm('Are you sure?');
+   if(confirm){
+	g_form.save();
+   }else{
+	g_form.addInfoMessage('Cannot Save');
+	return false;
+   }
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 13:33:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf45ab88c3442210ce437275e4013146</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Confirm</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_update_name>sys_script_client_cf45ab88c3442210ce437275e4013146</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-28 08:13:48</sys_updated_on>
+        <table>x_472060_demo_app_cash_cases</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo App">02606fc0c3442210ce437275e40131cd</application>
+        <file_path/>
+        <instance_id>d6fe502b2b9b5a18eafcfcd2ce91bf4b</instance_id>
+        <instance_name>dev293800</instance_name>
+        <name>sys_script_client_cf45ab88c3442210ce437275e4013146</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;
+    &lt;sys_script_client action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;false&lt;/active&gt;
+        &lt;applies_extended&gt;false&lt;/applies_extended&gt;
+        &lt;condition/&gt;
+        &lt;description/&gt;
+        &lt;field/&gt;
+        &lt;global&gt;true&lt;/global&gt;
+        &lt;isolate_script&gt;true&lt;/isolate_script&gt;
+        &lt;messages/&gt;
+        &lt;name&gt;Confirm&lt;/name&gt;
+        &lt;order/&gt;
+        &lt;script&gt;&lt;![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   g_form.addInfoMessage('Inside Script');
+   confirm('Are you sure?');
+   if(confirm){
+	g_form.save();
+   }else{
+	g_form.addInfoMessage('Cannot Save');
+	return false;
+   }
+   
+}]]&gt;&lt;/script&gt;
+        &lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2025-02-26 13:33:53&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;cf45ab88c3442210ce437275e4013146&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Confirm&lt;/sys_name&gt;
+        &lt;sys_overrides/&gt;
+        &lt;sys_package display_value="Demo App" source="x_472060_demo_app"&gt;02606fc0c3442210ce437275e40131cd&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Demo App"&gt;02606fc0c3442210ce437275e40131cd&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_script_client_cf45ab88c3442210ce437275e4013146&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2025-02-28 08:13:48&lt;/sys_updated_on&gt;
+        &lt;table&gt;x_472060_demo_app_cash_cases&lt;/table&gt;
+        &lt;type&gt;onSubmit&lt;/type&gt;
+        &lt;ui_type&gt;10&lt;/ui_type&gt;
+        &lt;view/&gt;
+    &lt;/sys_script_client&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-862565900</payload_hash>
+        <record_name>Confirm</record_name>
+        <reverted_from/>
+        <source>bb3f773f8344221073e733d6feaad3b1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 07:02:48</sys_created_on>
+        <sys_id>3d5ffb3f8344221073e733d6feaad3a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1957edd03b40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 07:02:48</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>f95ffb3fd7442210409410b729f17fa6</update_guid>
+        <update_guid_history>f95ffb3fd7442210409410b729f17fa6:-862565900</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 07:08:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>233ff1258dda4088983d22dc3d04f290</sys_id>
+        <sys_metadata>cf45ab88c3442210ce437275e4013146</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Confirm</sys_name>
+        <sys_package display_value="Demo App" source="x_472060_demo_app">02606fc0c3442210ce437275e40131cd</sys_package>
+        <sys_parent display_value="Cash Cases">6aa16744c3442210ce437275e4013192</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02606fc0c3442210ce437275e40131cd</sys_scope>
+        <sys_scope_delete display_value="">91f90f4d4fca414e8e0c2dad7a40b401</sys_scope_delete>
+        <sys_update_name>sys_script_client_cf45ab88c3442210ce437275e4013146</sys_update_name>
+        <sys_update_version display_value="sys_script_client_cf45ab88c3442210ce437275e4013146">3d5ffb3f8344221073e733d6feaad3a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 07:08:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
